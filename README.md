@@ -23,3 +23,32 @@ Responsable de la gestión técnica y administrativa del grupo de teatro de la U
 #### Marzo 2019 - Marzo 2021 (2 años)
 #### *Santiago, Chile* 
 Cajero, reponedor, despachador, soporte IT y operario de mantenimiento
+
+---
+
+## Habilidades 
+### Idiomas
+* Inglés: intermedio
+* Francés: básico
+* Español: nativo
+
+### Lenguajes de programación
+* R: básico
+* Python: básico
+* SQL: básico
+* Bash: intermedio
+
+### Software y plataformas
+* Git: avanzado
+* GSuite: avanzado
+* RStudio: intermedio
+* Asana: intermedio
+* Trello: intermedio
+* Linux: intermedio
+* OBS: intermedio
+* Adobe Photoshop: intermedio
+* Adobe Premiere: avanzado
+* Adobe After Effects: avanzado
+* Adobe Audition: avanzado
+* Ableton Live: intermedio
+* Blender: intermedio
