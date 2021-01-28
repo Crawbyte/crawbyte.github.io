@@ -1,17 +1,19 @@
 # Director de arte con experiencia en music business y conocimiento avanzado en edición de video, diseño, gestión de proyectos y algo de ciencia de datos
 ---
+
 ## Portafolio
 * [Portafolio audiovisual](https://www.youtube.com/playlist?list=PLq6KwRNMDsuStJvkI5ZFwbkgLM5BYt_jO)
 * [Portafolio diseño](https://www.behance.net/cristianroso)
 * [Portafolio software](https://github.com/Crawbyte/)
 * [Portafolio fotografía](https://www.flickr.com/photos/75347077@N06/)
 ---
+
 ## Perfiles educativos
 * [Platzi](https://platzi.com/p/Crawbyte/)
 * [Coursera](https://www.coursera.org/user/44af4f8784954efe59e50354f96d6e1b)
 ---
-## Experiencia
 
+## Experiencia
 ### **Universidad Católica Andrés Bello** *Asistente de Coordinación de Cultura*
 #### Abril 2013 - julio 2014 (1 año 4 meses)
 #### *Puerto Ordaz, Venezuela* 
