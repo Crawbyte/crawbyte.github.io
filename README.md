@@ -1,4 +1,4 @@
-# Director de arte con experiencia en music business y conocimiento avanzado en edición de video, diseño, gestión de proyectos y algo de ciencia de datos
+# Director de arte con experiencia en music business y conocimiento avanzado en edición de video, diseño, gestión de proyectos, con algo de ciencia de datos
 ---
 
 ## Portafolio
